@@ -1,0 +1,343 @@
+.navbar{
+    font-family: Karla, sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+}
+.headercontent{
+  font-size: 60px;
+  margin-top: 0px;
+    margin-bottom: 20px;
+    color: #1f1f1f;
+    line-height: 62px;
+    letter-spacing: -2px;
+}
+.contentdetail{
+    font-size: 21px;
+    margin-bottom: 40px;
+    color: #222f3f;
+    line-height: 36px;
+}
+
+.buttoncontent{
+    width: 180px;
+    border-radius: 3px;
+    background-color: #1290a4;
+    
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 700;
+    color: white;
+}
+
+
+.buttoncontent:hover{
+    width: 180px;
+    border-radius: 3px;
+    background-color: #149eb3;
+    
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 700;
+    color: white;
+}
+
+.text-field{
+    width: 52%;
+    height: 30px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    padding-left: 20px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    border: 1px none #000;
+    border-radius: 2px;
+    background-color: rgba(18, 144, 164, 0.07);
+    color: #666;
+    font-size: 16px;
+}
+
+.benefit-heading {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2px;
+    font-weight: 600;
+    font-family: Karla, sans-serif;
+    color: #333;
+}
+.Response-content{
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2px;
+    font-weight: bold;
+    font-family: Karla, sans-serif;
+    color: #333;
+}
+
+.lowerbutton{
+    padding: 13px 22px;
+    border-radius: 3px;
+    background-color: #f46f7c;
+    color: #fff;
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 700;
+}
+
+.lowersection{
+    padding: 120px 30px;
+    background-color: #30393b;
+}
+
+.pricing-title {
+    margin: 0px auto 20px;
+    color: #fff;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -3px;
+}
+.pricing-sub {
+    max-width: 680px;
+    margin-right: auto;
+    margin-bottom: 90px;
+    margin-left: auto;
+    color: #878b90;
+    font-size: 21px;
+    line-height: 36px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.pricing-label {
+    margin-bottom: 20px;
+    color: #878b90;
+    font-size: 13px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+}
+.amount-text {
+    font-size: 50px;
+}
+.currency {
+    position: relative;
+    top: -10px;
+    right: 3px;
+    font-size: 30px;
+}
+
+.pricing-text {
+    margin-bottom: 30px;
+    color: #1f1f1f;
+    line-height: 23px;
+}
+
+.pricing-para {
+    margin-bottom: 0px;
+    padding-left: 10px;
+    color: #1f1f1f;
+    font-size: 17px;
+}
+.pricing-content {
+    position: relative;
+    font-family: Karla, sans-serif;
+    color: #333;
+   
+}
+
+.basic-pricing {
+    position: relative;
+    padding: 50px 50px 30px;
+    border-radius: 6px;
+    background-color: #fff;
+    text-align: left;
+}
+.pricing-list-item{
+    display: flex;
+    align-items: center;
+   
+}
+.item-striked {
+    text-decoration: line-through;
+    opacity: 0.46;
+}
+.pricing-card-info {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    color: #666;
+    line-height: 28px;
+}
+.pricign-button {
+    margin-top: 20px;
+    padding: 12px 30px;
+    border-radius: 4px;
+    background-color: #1290a4;
+    -webkit-transition: all 275ms ease;
+    transition: all 275ms ease;
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
+.pricign-button:hover {
+    background-color: #0d41e9;
+}
+
+.border-top{
+    content: "";
+    position: absolute;
+    top: -1px;
+    left: 0;
+    height: 8px;
+    width: 100%;
+    background-color: #f46f7c;
+
+}
+
+.lowersection .card{
+    border: 0;
+    overflow: hidden;
+}
+.firstsection{
+    padding: 70px 30px 96px;
+    background-color: #eef4f5;
+    text-align: center;
+}
+
+.card-body{
+   padding: 35px;
+   text-align: left;
+}
+.circle-icon{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f46f7c30;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.circle-icon:hover{
+    background-color: #f46f7c5d;
+}
+
+.pricing-more-info {
+    max-width: 680px;
+    margin: 65px auto 0px;
+    color: #878b90;
+    font-size: 17px;
+    line-height: 32px;
+    font-weight: 400;
+    text-align: center;
+}
+.more-link {
+    padding-left: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.more-link:hover{
+    text-decoration: underline;
+}
+
+.headingcontent {
+    color: #000;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -2px;
+}
+.bottom-content{
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.newsletter-sub {
+    margin-bottom: 40px;
+    color: #666;
+    font-size: 21px;
+    line-height: 31px;
+}
+
+.bottom-main-content{
+    max-width: 730px;
+    margin-right: auto;
+    margin-bottom: 120px;
+    margin-left: auto;
+    text-align: center;
+}
+
+.newsletter-info {
+    max-width: 540px;
+    margin: 10px auto 20px;
+    color: #666;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.paragraph {
+    max-width: 320px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #666;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.footer-social-icons{
+    font-size: 18px;
+}
+
+.footer-col-15 {
+   
+    padding-right: 20px;
+    font-family: Karla, sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+}
+.footer-link {
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #1f1f1f;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.footer-col-40 {
+    
+    padding-right: 20px;
+    padding-left: 100px;
+    font-family: Karla, sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+}
+.footer-col-title {
+    margin-top: 0px;
+    margin-bottom: 40px;
+    color: #666;
+    font-size: 14px;
+    line-height: 18px;
+}
+.nav-link{
+    padding: 7px 18px;
+    color: #1f1f1f;
+    font-size: 16px;
+    line-height: 32px;
+}
